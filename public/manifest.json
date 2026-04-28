@@ -1,0 +1,22 @@
+{
+  "name": "168 間歇斷食應用",
+  "short_name": "168斷食",
+  "description": "AI驅動的間歇斷食追蹤應用，自動計算熱量和營養",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "categories": ["health", "fitness"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%23667eea'/><stop offset='100%' style='stop-color:%23764ba2'/></linearGradient></defs><rect width='192' height='192' fill='url(%23g)' rx='45'/><circle cx='96' cy='70' r='30' fill='white' opacity='0.9'/><rect x='70' y='110' width='52' height='50' rx='8' fill='white' opacity='0.9'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": []
+}
